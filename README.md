@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @sergio-rey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Programming 🦆
+### Creating Projects
+
+Developing different projects to learn and improve in order to have a great impact.
+
+- Full Stack 🐱‍💻
+- Marching learning 💻📈
+- Robotics  🤖
+
+In @sergio-rey.
 
 <!---
 sergio-rey/sergio-rey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
