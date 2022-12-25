@@ -1,13 +1,8 @@
-## Programming 🦆
-### Creating Projects
+### Creating Projects 🦆
 
 Developing different projects to learn and improve in order to have a great impact.
 
-- Full Stack 🐱‍💻
-- Marching learning 💻📈
-- Robotics  🤖
-
-In @sergio-rey.
+In @bysergr.
 
 <!---
 sergio-rey/sergio-rey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
