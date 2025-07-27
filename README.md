@@ -1,8 +1,7 @@
-### Creating Projects 🦆
+### Sergio Rey
 
-Developing different projects to learn and improve in order to have a great impact.
+Passionate about creating products that impact people's lives, I am focused on transitioning my career towards leading teams and driving product development. My goal is to foster startup growth through product-led strategies, while continuing to deepen my knowledge of finance and technologie to enhance innovation and strategic decision-making.
 
-In @bysergr.
 
 <!---
 sergio-rey/sergio-rey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
